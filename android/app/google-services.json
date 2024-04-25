@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273403326461",
+    "project_id": "navbus-21044",
+    "storage_bucket": "navbus-21044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273403326461:android:b2ca3268e586386948f394",
+        "android_client_info": {
+          "package_name": "com.example.iqra_navbus_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOOb2nlxwaDKVgUzk90SNsixTGWMyfuRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
